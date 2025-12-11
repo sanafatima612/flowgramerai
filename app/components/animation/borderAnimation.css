@@ -1,0 +1,30 @@
+@property --border-angle {
+  inherits: false;
+  initial-value: 0deg;
+  syntax: '<angle>';
+}
+
+@keyframes border-rotate {
+  to {
+    --border-angle: 360deg;
+  }
+}
+
+.border-animated {
+  --border-angle: 0deg;
+  padding: 1px; /* required so border shows */
+  background:
+    linear-gradient(45deg,#000000,#000 50%,#000000) padding-box,
+    conic-gradient(
+      from var(--border-angle),
+      color-mix(in oklab, oklch(44.6% 0.043 257.281) 48%, transparent) 80%,
+      oklch(42.4% 0.199 265.638) 86%,
+      oklch(42.4% 0.199 265.638) 90%,
+      oklch(58.5% 0.233 277.117) 94%,
+      color-mix(in oklab, oklch(44.6% 0.043 257.281) 48%, transparent)
+    ) border-box;
+
+  border: 2px solid transparent;
+  border-radius: 2rem;
+  animation: border-rotate 6s linear infinite;
+}

@@ -1,0 +1,55 @@
+I have an existing website connected from GitHub: https://www.flowgramerai.com
+
+I want you to improve, complete, and refine this website using https://www.effectivesoft.com/ as the structural and quality reference (NOT a copy — just similar quality, organization, and professionalism).
+
+Your tasks:
+
+1. **Fix and complete all missing or incomplete sections** on my site:
+   - Home
+   - Services
+   - About
+   - Contact
+   - AI Solutions
+   - Any other key pages based on reference site structure
+
+2. **Remove all extra, empty, or non-working pages** in my project.
+
+3. **Upgrade the layout and content structure**:
+   - Match the clean navigation flow of effectivesoft.com
+   - Use my brand (“FlowGramer AI”)
+   - Keep all site text original (do not copy from the reference site)
+   - Create professional, polished, SEO-friendly text for each section
+
+4. **Add missing content where needed**, including:
+   - Hero section text
+   - Company description
+   - AI-focused services
+   - Industry solutions (based on what makes sense for FlowGramer AI)
+   - Testimonials section (create placeholders)
+   - Footer with complete links and contact info
+
+5. **Improve UX/UI styling** while using my current branding colors.
+   - Organize sections clearly
+   - Use modern spacing, headings, and layout similar to the reference site
+   - Ensure responsive design
+
+6. **Check and fix all broken links, buttons, and routes.**
+
+7. **Focus on avoiding duplication**:
+   - Do not copy wording from effectivesoft.com
+   - Only use it as inspiration for layout and structure
+   - All content should be unique, original, and aligned with FlowGramer AI’s identity
+
+8. **If needed, generate new content** such as:
+   - Service descriptions
+   - Company mission/vision
+   - Product/AI tool explanations
+   - FAQ
+   - Meta descriptions & SEO tags
+
+Deliverables:
+- Cleaned-up file structure
+- Complete, polished, unique website content
+- Improved layout based on effectivesoft.com’s structure
+- Removed all dead/unneeded pages
+- Full working navigation
