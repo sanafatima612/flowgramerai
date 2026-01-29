@@ -29,6 +29,7 @@ export const Navbar: React.FC = () => {
     { label: "Services", href: "/services", hasDropdown: true },
     { label: "About", href: "/about", hasDropdown: false },
     { label: "Case Studies", href: "/case-studies", hasDropdown: false },
+    { label: "Blog", href: "/blog", hasDropdown: false },
     { label: "Contact", href: "/contact", hasDropdown: false },
   ];
 
