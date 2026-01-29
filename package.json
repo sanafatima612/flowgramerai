@@ -43,6 +43,6 @@
   },
   "homepage": "https://github.com/dajmal552-collab/B2C-Incorporation#readme",
   "engines": {
-    "node": "18.x"
+    "node": "24.x"
   }
 }
